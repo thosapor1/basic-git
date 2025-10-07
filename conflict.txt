@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello from main
-=======
-Hello from develop
->>>>>>> develop
